@@ -1,0 +1,17 @@
+body{
+    margin-top:20px !important;
+    background:#eee;
+}
+
+.card{
+    border: none !important;
+    box-shadow: 0 1px 15px 1px rgba(52,40,104,.08);    
+}
+
+.myclasses a{
+    text-decoration: none;
+    color: black;
+    list-style: none;
+    font-size: large;
+    font-weight: bold;
+}

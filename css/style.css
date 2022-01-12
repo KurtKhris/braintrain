@@ -1,0 +1,51 @@
+.card{
+    border: none !important;
+}
+
+a li{
+    text-decoration: none;
+}
+
+
+.school-list li{
+    font-size: large;
+    font-weight: bold;
+}
+
+/* Cart page */
+
+body{
+    margin-top:20px !important;
+    background:#eee;
+}
+.ui-w-40 {
+    width: 40px !important;
+    height: auto;
+}
+
+.card{
+    box-shadow: 0 1px 15px 1px rgba(52,40,104,.08);    
+}
+
+.ui-product-color {
+    display: inline-block;
+    overflow: hidden;
+    margin: .144em;
+    width: .875rem;
+    height: .875rem;
+    border-radius: 10rem;
+    -webkit-box-shadow: 0 0 0 1px rgba(0,0,0,0.15) inset;
+    box-shadow: 0 0 0 1px rgba(0,0,0,0.15) inset;
+    vertical-align: middle;
+}
+
+.media-body a{
+    text-decoration: none;
+    font-size: large;
+    /* font-weight: bold; */
+}
+
+.register a{
+    text-decoration: none;
+    color: #6C757D;
+}

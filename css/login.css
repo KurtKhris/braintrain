@@ -1,0 +1,19 @@
+body {
+    margin-top: 100px !important;
+  }
+  
+  .btn-login {
+    font-size: 0.9rem;
+    letter-spacing: 0.05rem;
+    padding: 0.75rem 1rem;
+  }
+
+.signup a{
+     text-decoration: none;
+     color: gray;
+ }
+
+ .reset {
+    text-decoration: none;
+    color: rgb(250, 6, 6);
+}

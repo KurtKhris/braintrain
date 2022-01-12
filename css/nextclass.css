@@ -1,0 +1,18 @@
+
+body{
+    margin-top:20px !important;
+    background:#eee;
+}
+
+.card{
+    border: none !important;
+    box-shadow: 0 1px 15px 1px rgba(52,40,104,.08);    
+}
+
+.schedule a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+
