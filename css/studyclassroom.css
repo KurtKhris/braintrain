@@ -1,8 +1,30 @@
-/* body {
-   
-  } */
-  
-  ::-webkit-scrollbar {
+.pupils ul li{
+    font-weight: bold;
+    list-style: none;
+}
+
+body{
+    margin-top:20px !important;
+    background:#eee;
+}
+
+.card{
+    border: none !important;
+    box-shadow: 0 1px 15px 1px rgba(52,40,104,.08);    
+}
+
+.schedule a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.live{
+    color: #2ECC71 !important;
+}
+
+/* Chat */
+::-webkit-scrollbar {
     width: 5px;
   }
   
@@ -36,3 +58,5 @@
     font-size: 0.9rem;
     color: #999;
   }
+
+
