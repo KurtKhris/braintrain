@@ -1,0 +1,37 @@
+.pupils ul li{
+    font-weight: bold;
+    list-style: none;
+}
+
+body{
+    margin-top:0px !important;
+    background:#eee;
+}
+
+.card{
+    border: none !important;
+    box-shadow: 0 1px 15px 1px rgba(52,40,104,.08);    
+}
+
+.schedule a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.category{
+    list-style: none;
+    font-weight: bold;
+}
+
+ul.catalogue a{
+    text-decoration: none;
+    list-style: none;
+    color: black !important;
+}
+
+.others{
+    list-style: none;
+    
+}
+
